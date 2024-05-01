@@ -9,7 +9,9 @@
 
 }
 .header{
-    background:rgb(83, 83, 171);
+    height:230px;
+    width:100%;
+    background-color:#7399bf;
     padding:20px;
     color:white;
 }
